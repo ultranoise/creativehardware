@@ -1,7 +1,7 @@
 # A Creative (?) Hardware Workshop
 
 Del 9 al 11 de enero de 2024
-sesiones de 9 a 14 horas.
+en sesiones de las 9 a las 14 horas.
 
 El taller está dedicado a docentes de universidades y parte de las siguientes preguntas: ¿puede tener un hardware la cualidad de 'creativo'? ¿es 'lo creativo' lo más importante o un imperativo impuesto? ¿es el hardware (o el software) el foco de nuestra enseñanza? ¿por qué las clases con microcontroladores/microprocesadores solo hablan de sí mismos? ¿por qué hay tan pocos ejemplos de aplicación en las humanidades?
 
