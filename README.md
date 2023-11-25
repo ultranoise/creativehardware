@@ -3,7 +3,7 @@
 Del 9 al 11 de enero de 2024
 en sesiones de las 9 a las 14 horas.
 
-El taller está dedicado a docentes de universidades y parte de las siguientes preguntas: ¿puede tener un hardware la cualidad de ser 'creativo'? ¿es 'lo creativo' lo más importante o un imperativo impuesto? ¿es el hardware (o el software) el foco de nuestra enseñanza? ¿por qué las clases con microcontroladores/microprocesadores solo hablan de sí mismos? ¿por qué hay tan pocos ejemplos de aplicación en las humanidades?
+El taller está dedicado a docentes de universidades y parte de las siguientes preguntas: ¿puede tener un hardware la cualidad de ser 'creativo'? ¿es 'lo creativo' lo más importante o un imperativo impuesto? ¿es el hardware (o el software) el foco de nuestra enseñanza? ¿por qué las clases con microcontroladores/microprocesadores solo hablan de sí mismos? ¿por qué hay tan pocos ejemplos de aplicación en la enseñanza de humanidades?
 
 Durante el taller llevaremos a cabo ejercicios para aprender el uso de circuit python (https://circuitpython.org/) para diseñar actividades docentes en cada uno de nuestros #ambitos de docencia e investigación. 
 
