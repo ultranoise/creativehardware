@@ -9,7 +9,7 @@ Durante el taller aprenderemos a diseñar actividades docentes (¿creativas?) en
 
 Propongo la siguiente agenda:
 
-martes 9 - Introducción: ¿herramientas creativas? Entornos para no matar la creatividad. Instalación y ejercicions con Circuit Python. Deberes: pensar en un ejercicio de clase (que no tenga que ver con hardware) e implementarlo con Circuit Python. 
+martes 9 - Introducción: ¿herramientas creativas? Entornos para no matar la creatividad. Intro a Circuit Python. Ejercicios con sensores y librerias. Deberes: pensar en un ejercicio de clase (que no tenga que ver con hardware) e implementarlo con Circuit Python. 
 
 miercoles 10 - Diseño de un ejercicio de clase con Circuit Python. Librerias, interfaces, etc. Implementación y código. Creación de un mockup funcional. 
 
