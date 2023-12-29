@@ -19,4 +19,8 @@ Sobre el responsable del taller:
 
 Enrique Tomás es ingeniero superior de telecomunicaciones por la universidad politécnica de Madrid (departamento de señales y sistemas). Estudió en paralelo guitarrra clásica desde los doce años y composición en el conservatorio superior de madrid. Hizo un doctorado en la universidad de arte de Linz (departamento Interface Cultures y Tangible Music Lab). Trabajó desde principios de los 2000 en Medialab Madrid y Prado, donde vivió de lleno la creación de la escena de artistas relacionados con el fenómeno Arduino. Desde 2005 es docente regular de universidades, instituciones y hacklabs por toda Europa y América donde normalmente da clase sobre sistemas musicales interactivos. Desde finales de los noventa lleva tocando en escenarios, y realizando performances y exposiciones. Ha formado parte de todo tipo de colectivos y bandas. Como académico, es Senior Artist del Tangible Music Lab de Linz donde investiga sobre la materialidad de los instrumentos digitales y da clase en el master Postdigital Lutherie. Para saber más: https://tamlab.kunstuni-linz.at/team/enrique-tomas/ 
 
+# Recursos
 
+- Tutorial de Circuit Python de Enrique Tomás (en inglés): https://github.com/tamlablinz/learn-esp32/wiki/Digital-Lutherie---ESP32-Micropython
+
+- 
